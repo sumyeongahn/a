@@ -6,7 +6,7 @@ The main goal of my research is to develop a robust artificial intelligence that
 
 ### Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
-* : equal contribution
+\* : equal contribution
 
 [P2/W2] CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition  
 **Sumyeong Ahn**\*, Jongwoo Ko\*, Se-Young Yun  
