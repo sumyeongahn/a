@@ -1,4 +1,4 @@
-I am a Ph.D candidate at <a href="https://osi.kaist.ac.kr"> Optimization and Statistical Inference Lab</a> at KAIST, advised by Prof. Se-Young Yun. Before starting Ph.D., I received a M.S in Electrical engineering at KAIST, and B.S in School of Electrical engineering at Korea Univ.
+I am a Ph.D candidate at <a href="http://osi.kaist.ac.kr"> Optimization and Statistical Inference Lab</a> at KAIST, advised by Prof. Se-Young Yun. Before starting Ph.D., I received a M.S in Electrical engineering at KAIST, and B.S in School of Electrical engineering at Korea Univ.
 
 The main goal of my research is to develop a robust artificial intelligence that can overcome obstacles which arise in the real-world, such as class imbalance problem, dataset bias, noisy lables. I mainly worked on visual dataset but I am also interested in multimodal datasets (e.g., video dataset). 
 
