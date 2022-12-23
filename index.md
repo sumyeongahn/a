@@ -57,7 +57,7 @@ KICS'17
 
 ### Patent
 
-- [1] Method for Controlling Multi UAVs Based on Multi-Hop Wireless Mesh Networks  
+[1] Method for Controlling Multi UAVs Based on Multi-Hop Wireless Mesh Networks  
 KOR patent number: 10-2019874-0000
 
 ---
@@ -89,8 +89,8 @@ Bosch (01/2015-06/2015)
 ---
 
 ### Education
-- [KAIST], M.S. in Electrical Engineerin/ Daejeon, South Korea/ July 2017  
-- [Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
+[KAIST], M.S. in Electrical Engineerin/ Daejeon, South Korea/ July 2017  
+[Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
 
 
 
