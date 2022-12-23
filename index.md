@@ -64,7 +64,7 @@ KOR patent number: 10-2019874-0000
 
 ### Projects
 
-## Leading Projects
+#### Leading Projects
 
 [5] Developing NAS algorithm for Layer-wise Communication Network Failure detection utilizing Multi-Layer datasets  
 KT (08/2021-08/2022)
@@ -81,7 +81,7 @@ KISA (06/2015-06/2016)
 [1] Modeling of Multi-Hop Wireless Networks for Military Applications  
 ADD (09/2015-12/2016)
 
-## Participating Student
+#### Participating Student
 [1] Video Transmission over Vehicular Networks  
 Bosch (01/2015-06/2015)
 
