@@ -66,18 +66,24 @@ KOR patent number: 10-2019874-0000
 
 #### Leading Projects
 
-[5] Developing NAS algorithm for Layer-wise Communication Network Failure detection utilizing Multi-Layer datasets KT (08/2021-08/2022)
+[5] Developing NAS algorithm for Layer-wise Communication Network Failure detection utilizing Multi-Layer datasets  
+KT (08/2021-08/2022)
 
-[4] Application Service Implementation (Store Open/Close prediction) based on data from commercial stores' power consumption KEPRI (04/2018-12/2019)
+[4] Application Service Implementation (Store Open/Close prediction) based on data from commercial stores' power consumption  
+KEPRI (04/2018-12/2019)
 
-[3] Versatile Network System Architecture for Multi-dimensional Diversity IITP (04/2016-08/2019)
+[3] Versatile Network System Architecture for Multi-dimensional Diversity  
+IITP (04/2016-08/2019)
 
-[2] Designing Matching Algorithm for Distributed Edge Devices KISA (06/2015-06/2016)
+[2] Designing Matching Algorithm for Distributed Edge Devices  
+KISA (06/2015-06/2016)
 
-[1] Modeling of Multi-Hop Wireless Networks for Military Applications ADD (09/2015-12/2016)
+[1] Modeling of Multi-Hop Wireless Networks for Military Applications  
+ADD (09/2015-12/2016)
 
 #### Participating Student
-[1] Video Transmission over Vehicular Networks Bosch (01/2015-06/2015)
+[1] Video Transmission over Vehicular Networks  
+Bosch (01/2015-06/2015)
 
 
 ---
