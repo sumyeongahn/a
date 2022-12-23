@@ -1,6 +1,4 @@
-I am a Ph.D candidate at <a href="http://osi.kaist.ac.kr"> Optimization and Statistical Inference Lab</a> at KAIST, advised by Prof. <a href="https://fbsqkd.github.io"> Se-Young Yun</a>. Before starting Ph.D., I received a M.S in Electrical engineering at KAIST, and B.S in School of Electrical engineering at Korea Univ.
-
-The main goal of my research is to develop a robust artificial intelligence that can overcome obstacles which arise in the real-world, such as class imbalance problem, dataset bias, noisy lables. I mainly worked on visual dataset but I am also interested in multimodal datasets (e.g., video dataset). 
+My research goal is to develop a robust artificial intelligence that can overcome obstacles which m,may arise in the real-world, such as class imbalance problem, dataset bias, noisy lables. I mainly worked on visual dataset but I am also interested in multimodal datasets (e.g., video dataset). 
 
 ---
 
@@ -93,4 +91,8 @@ Bosch (01/2015-06/2015)
 [Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
 
 
+---
 
+### Reference
+- Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr, 
+- Prof. <a href="https://yung-web.github.io/home/">Yung Yi</a>: Professor at the Electrical Engineering, Korea Advance Institute of Science and Technology (KAIST), South Korea, yiyung [at] kaist [dot] edu
