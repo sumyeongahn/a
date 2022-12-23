@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="http://osi.kaist.ac.kr/">OSI Lab</a>, <a href="https://www.kaist.ac.kr/">KAIST</a>, Seoul, South Korea
   <br><br>
-  <a href="https://scholar.google.com/citations?user=krxhvIYAAAAJ&hl">Google Scholar</a> / <a href="https://github.com/sumyeongahn/"> Github </a> /  CV /pdf/CV.pdf
+  <a href="https://scholar.google.com/citations?user=krxhvIYAAAAJ&hl">Google Scholar</a> / <a href="https://github.com/sumyeongahn/"> Github </a> /  <a href="/pdf/CV.pdf"> CV</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
