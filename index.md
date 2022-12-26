@@ -2,7 +2,7 @@ My research goal is to develop a robust artificial intelligence that can overcom
 
 ---
 
-### Publications
+## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
 
@@ -53,18 +53,18 @@ KICS'17
 
 ---
 
-### Patent
+## Patent
 
 [1] Method for Controlling Multi UAVs Based on Multi-Hop Wireless Mesh Networks  
 KOR patent number: 10-2019874-0000
 
 ---
 
-### Projects
+## Projects
 
 Detailed information is summarized in the <a href="/pdf/CV.pdf"> CV</a>
 
-#### Leading Projects
+### Leading Projects
 
 [5] Developing NAS algorithm for Layer-wise Communication Network Failure detection utilizing Multi-Layer datasets  
 KT (08/2021-08/2022)
@@ -81,21 +81,23 @@ KISA (06/2015-06/2016)
 [1] Modeling of Multi-Hop Wireless Networks for Military Applications  
 ADD (09/2015-12/2016)
 
-#### Participating Student
+### Participating Student
 [1] Video Transmission over Vehicular Networks  
 Bosch (01/2015-06/2015)
 
 
 ---
 
-### Education
+## Education
+
 [KAIST], M.S. in Electrical Engineerin/ Daejeon, South Korea/ July 2017  
 [Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
 
 
 ---
 
-### Reference
+## Reference
+
 Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr  
   
   
