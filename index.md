@@ -62,6 +62,8 @@ KOR patent number: 10-2019874-0000
 
 ### Projects
 
+Detailed information is summarized in the <a href="/pdf/CV.pdf"> CV</a>
+
 #### Leading Projects
 
 [5] Developing NAS algorithm for Layer-wise Communication Network Failure detection utilizing Multi-Layer datasets  
@@ -94,5 +96,5 @@ Bosch (01/2015-06/2015)
 ---
 
 ### Reference
-Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr, 
+Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr,  
 Prof. <a href="https://yung-web.github.io/home/">Yung Yi</a>: Professor at the Electrical Engineering, Korea Advance Institute of Science and Technology (KAIST), South Korea, yiyung [at] kaist [dot] edu
