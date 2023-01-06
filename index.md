@@ -96,15 +96,9 @@ Bosch (01/2015-06/2015)
 
 ---
 
-<<<<<<< HEAD
-### Reference
-- Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr  
-- Prof. <a href="https://yung-web.github.io/home/">Yung Yi</a>: Professor at the Electrical Engineering, Korea Advance Institute of Science and Technology (KAIST), South Korea, yiyung [at] kaist [dot] edu
-=======
 ## Reference
 
 Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr  
   
   
 Prof. <a href="https://yung-web.github.io/home/">Yung Yi</a>: Professor at the Electrical Engineering, Korea Advance Institute of Science and Technology (KAIST), South Korea, yiyung [at] kaist [dot] edu
->>>>>>> 410537971e6b3e7c8185710cc04d5e9b1cf938cb
