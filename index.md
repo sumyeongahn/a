@@ -19,17 +19,17 @@ ML Safety Workshop at NeurIPS'22, NeurIPS'22 Workshop on Distribution Shifts: Co
 
 [C4] Denoising After Entropy-based Debiasing A Robust Training Method for Dataset Bias with Noisy Labels  
 **Sumyeong Ahn**, Se-Young Yun  
-To be appeared AAAI'23  
+AAAI'23  
 <a href="https://arxiv.org/abs/2212.01189"> [Paper] </a>
 
 [C3] Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach  
 Sangwoo Moon, **Sumyeong Ahn** Kyunghwan Son, Jinwoo Park, Yung Yi  
-Proceedings of ACM MobiHoc'21  
+ACM MobiHoc'21  
 <a href="https://dl.acm.org/doi/10.1145/3466772.3467043"> [Paper] </a>
 
 [C2] Enlarging Discriminative Power by Adding an Extra Class in Unsupervised Domain Adaptation  
 Tran Hai H, **Sumyeong Ahn**, Taeyoung Lee, Yung Yi  
-Proceedings of ICPR'21  
+ICPR'21  
 <a href="https://ieeexplore.ieee.org/document/9412249"> [Paper] </a>
 
 [J1] Multi-Armed Bandit with Additional Observations  
@@ -39,7 +39,7 @@ POMACS'18
 
 [C1] Multi-Armed Bandit with Additional Observations  
 Donggyu Yun, **Sumyeong Ahn** Alexandre Proutiere, Jinwoo Shin, Yung Yi  
-Proceedings of ACM SIGMETRICS'21  
+SIGMETRICS'21  
 <a href="https://dl.acm.org/doi/abs/10.1145/3292040.3219639"> [Paper] </a>
 
 [M2] Client Sampling Algorithm in Federated Learning via Combinatorial Averaging and Multi-Armed Bandits  
