@@ -1,4 +1,4 @@
-My research goal is to develop a robust artificial intelligence that can overcome obstacles which m,may arise in the real-world, such as class imbalance problem, dataset bias, noisy lables. I mainly worked on visual dataset but I am also interested in multimodal datasets (e.g., video dataset). 
+My research goal is to develop a robust artificial intelligence that can overcome obstacles which may arise in the real-world, such as class imbalance problem, dataset bias, noisy lables. I mainly worked on visual dataset but I am also interested in multimodal datasets (e.g., video dataset). 
 
 ---
 
