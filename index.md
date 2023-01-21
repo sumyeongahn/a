@@ -6,14 +6,16 @@ My research goal is to develop a robust artificial intelligence that can overcom
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
 
-[P2/W2] CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition  
+[C6/W2] CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition  
 **Sumyeong Ahn**\*, Jongwoo Ko\*, Se-Young Yun  
+ICLR'23 (Spotlight, notable-top-25%)  
 ML Safety Workshop at NeurIPS'22, NeurIPS'22 Workshop on Distribution Shifts: Connecting Methods and Applications  
 <a href="https://openreview.net/forum?id=5yrzySCFlM1"> [Paper] </a>
 
 
-[P1/W1] Mitigating Dataset Bias by Using Per-sample Gradient  
+[C5/W1] Mitigating Dataset Bias by Using Per-sample Gradient  
 **Sumyeong Ahn**\*, Seongyoon Kim\*, Se-Young Yun  
+ICLR'23  
 ML Safety Workshop at NeurIPS'22, NeurIPS'22 Workshop on Distribution Shifts: Connecting Methods and Applications  
 <a href="https://openreview.net/forum?id=wMCCObWq-FI"> [Paper] </a>
 
