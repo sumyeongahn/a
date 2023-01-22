@@ -64,7 +64,7 @@ KOR patent number: 10-2019874-0000
 
 ## Projects
 
-Detailed information is summarized in the <a href="/pdf/CV.pdf"> CV</a>
+Detailed information is summarized in the <a href="CV.pdf"> CV</a>
 
 ### Leading Projects
 
