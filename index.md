@@ -6,7 +6,7 @@ My research goal is to develop a robust artificial intelligence that can overcom
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
 
-[P1] On the Utilization of Pre-trained Models for Robust Training under Label Noise  
+[P1] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels
 Jongwoo Ko\*, **Sumyeong Ahn**\*, Se-Young Yun  
 Under Review.
 
