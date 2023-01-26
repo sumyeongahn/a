@@ -6,6 +6,11 @@ My research goal is to develop a robust artificial intelligence that can overcom
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
 
+[P1] On the Utilization of Pre-trained Models for Robust Training under Label Noise
+Jongwoo Ko\*, **Sumyeong Ahn**\*, Se-Young Yun
+Under Review.
+
+
 [C6/W2] CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition  
 **Sumyeong Ahn**\*, Jongwoo Ko\*, Se-Young Yun  
 ICLR'23 (Spotlight, notable-top-25%)  
