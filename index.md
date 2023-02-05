@@ -1,10 +1,15 @@
-My research goal is to develop a robust artificial intelligence that can overcome obstacles which may arise in the real-world, such as class imbalance problem, dataset bias, noisy labels. I mainly worked on Image dataset (e.g., CIFAR and ImageNet) but I am also interested in multimodal datasets (e.g., Video). 
+My research goal is to develop a robust artificial intelligence that can overcome obstacles which may arise in the real-world, such as class imbalance problem, dataset bias, noisy labels, semi-supervised learning, and active learning. I mainly worked on Image dataset (e.g., CIFAR and ImageNet) but I am also interested in multimodal datasets (e.g., Video). 
 
 ---
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
+
+
+[P2] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem
+**Sumyeong Ahn**, Se-Young Yun  
+Preparing.
 
 [P1] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels  
 Jongwoo Ko\*, **Sumyeong Ahn**\*, Se-Young Yun  
@@ -97,6 +102,7 @@ Bosch (01/2015-06/2015)
 
 ## Education
 
+[KAIST], Ph.D. in Graduate School of AI/ Seoul, South Korea/ (Expected) July 2023   
 [KAIST], M.S. in Electrical Engineerin/ Daejeon, South Korea/ July 2017  
 [Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
 
