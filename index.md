@@ -51,7 +51,7 @@ POMACS'18
 
 [C1] Multi-Armed Bandit with Additional Observations  
 Donggyu Yun, **Sumyeong Ahn** Alexandre Proutiere, Jinwoo Shin, Yung Yi  
-SIGMETRICS'21  
+SIGMETRICS'18  
 <a href="https://dl.acm.org/doi/abs/10.1145/3292040.3219639"> [Paper] </a>
 
 [M2] Client Sampling Algorithm in Federated Learning via Combinatorial Averaging and Multi-Armed Bandits  
