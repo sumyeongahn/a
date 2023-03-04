@@ -11,9 +11,9 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.
 **Sumyeong Ahn**, Se-Young Yun  
 Preparing.
 
-[P1] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels  
+[W3] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels  
 Jongwoo Ko\*, **Sumyeong Ahn**\*, Se-Young Yun  
-Under Review.
+Trustworthy ML Workshop at ICLR'23  
 
 
 [C6/W2] CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition  
