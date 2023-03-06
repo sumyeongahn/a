@@ -27,12 +27,12 @@ ML Safety Workshop at NeurIPS'22, NeurIPS'22 Workshop on Distribution Shifts: Co
 **Sumyeong Ahn**\*, Seongyoon Kim\*, Se-Young Yun  
 ICLR'23  
 ML Safety Workshop at NeurIPS'22, NeurIPS'22 Workshop on Distribution Shifts: Connecting Methods and Applications  
-<a href="https://openreview.net/forum?id=wMCCObWq-FI"> [Paper] </a>  </a> <a href="https://github.com/sumyeongahn/PGD"> [Code] </a>
+<a href="https://openreview.net/forum?id=wMCCObWq-FI"> [Paper] </a> <a href="https://github.com/sumyeongahn/PGD"> [Code] </a>
 
 [C4] Denoising After Entropy-based Debiasing A Robust Training Method for Dataset Bias with Noisy Labels  
 **Sumyeong Ahn**, Se-Young Yun  
 AAAI'23  
-<a href="https://arxiv.org/abs/2212.01189"> [Paper] </a> </a> <a href="https://github.com/sumyeongahn/DENEB"> [Code] </a>
+<a href="https://arxiv.org/abs/2212.01189"> [Paper] </a> <a href="https://github.com/sumyeongahn/DENEB"> [Code] </a>
 
 [C3] Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach  
 Sangwoo Moon, **Sumyeong Ahn** Kyunghwan Son, Jinwoo Park, Yung Yi  
