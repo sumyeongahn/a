@@ -115,6 +115,10 @@ Bosch (01/2015-06/2015)
 
 ## Reference
 
+
+Prof. <a href="https://jiayuzhou.github.io">Jiayu Zhow</a>: Professor at the Computer Science and Engineering, MSU, USA, zhou [at] cse [dot] msu [dot] edu  
+
+
 Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr  
   
   
