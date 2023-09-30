@@ -1,4 +1,4 @@
-My research goal is to develop a robust artificial intelligence that can overcome obstacles which may arise in the real-world, such as class imbalance problem, dataset bias, noisy labels, semi-supervised learning, and active learning. I mainly worked on Image dataset (e.g., CIFAR and ImageNet) but I am also interested in multimodal datasets (e.g., Video). 
+Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. Jiayu Zhou. I obtained my Ph.D. from KAIST under the guidance of Prof. Se-Young Yun (KAIST AI) and Yung Yi (KAIST EE). My research has centered on creating dependable AI solutions across diverse AI domains. In particular, my previous work delved into addressing issues like dataset bias, noisy labels, and class imbalances. Lately, I've embarked on a study of multi-modality, exploring various modalities such as Graph-Language, Visual-Language, and Sound-Language models.
 
 ---
 
@@ -9,7 +9,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.
 
 [P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem
 **Sumyeong Ahn**, Se-Young Yun  
-Preparing.  
+Under Review.  
 
 [P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels
 **Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun
