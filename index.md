@@ -106,7 +106,8 @@ Bosch (01/2015-06/2015)
 
 ## Education
 
-[KAIST], Ph.D. in Graduate School of AI/ Seoul, South Korea/ (Expected) July 2023   
+[MSU], Postdoctoral Fellow in Computer Sicence and Engineering/ East Lansing, USA/ Sep 2023 - (Current)
+[KAIST], Ph.D. in Graduate School of AI/ Seoul, South Korea/ July 2023   
 [KAIST], M.S. in Electrical Engineerin/ Daejeon, South Korea/ July 2017  
 [Korea Univ.], B.S. in School of Electrical Engineerin/ Seoul, South Korea/ Feb 2015  
 
