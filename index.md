@@ -7,12 +7,12 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.
 \* : equal contribution
 
 
-[P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem
+[P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
 **Sumyeong Ahn**, Se-Young Yun  
 Under Review.  
 
-[P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels
-**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun
+[P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
+**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
 Under Review.  
 
 [W3] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels  
