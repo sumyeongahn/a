@@ -6,7 +6,6 @@ Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. 
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : equal contribution
 
-
 [P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
 **Sumyeong Ahn**, Se-Young Yun  
 Under Review.  
@@ -14,6 +13,12 @@ Under Review.
 [P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
 **Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
 Under Review.  
+
+
+[C7] On Structured Pruning for Encoder-Decoder Language Models  
+Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**, Du-Seong Chang, Euijai Ahn, S-Young Yun   
+EMNLP'23 (Findings)
+
 
 [W3] Efficient Utilization of Pre-trained Model for Learning with Noisy Labels  
 Jongwoo Ko\*, **Sumyeong Ahn**\*, Se-Young Yun  
@@ -117,7 +122,7 @@ Bosch (01/2015-06/2015)
 ## Reference
 
 
-Prof. <a href="https://jiayuzhou.github.io">Jiayu Zhow</a>: Professor at the Computer Science and Engineering, Michigan State University (MSU), USA, zhou [at] cse [dot] msu [dot] edu  
+Prof. <a href="https://jiayuzhou.github.io">Jiayu Zhou</a>: Professor at the Computer Science and Engineering, Michigan State University (MSU), USA, zhou [at] cse [dot] msu [dot] edu  
 
 
 Prof. <a href="https://fbsqkd.github.io">Se-Young Yun</a>: Professor at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), South Korea, yunseyoung [at] kaist [dot] ac [dot] kr  
