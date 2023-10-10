@@ -4,7 +4,7 @@ Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. 
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
-\* : equal contribution
+\* : Equal Contribution  \^ : Equal Advising
 
 [P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
 **Sumyeong Ahn**, Se-Young Yun  
@@ -15,8 +15,8 @@ Under Review.
 Under Review.  
 
 
-[C7] On Structured Pruning for Encoder-Decoder Language Models  
-Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**, Du-Seong Chang, Euijai Ahn, S-Young Yun   
+[C7] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  
+Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**\^, Du-Seong Chang, Euijai Ahn, S-Young Yun\^   
 EMNLP'23 (Findings)
 
 
