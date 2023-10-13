@@ -16,7 +16,7 @@ Under Review.
 
 
 [C7] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  
-Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**\^, Du-Seong Chang, Euijai Ahn, S-Young Yun\^   
+Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**^, Du-Seong Chang, Euijai Ahn, S-Young Yun^   
 EMNLP'23 (Findings)
 
 
