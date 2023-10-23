@@ -4,7 +4,7 @@ Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. 
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
-\* : Equal Contribution  \^ : Equal Advising
+* : Equal Contribution  ^ : Equal Advising
 
 [P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
 **Sumyeong Ahn**, Se-Young Yun  
