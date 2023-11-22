@@ -14,6 +14,9 @@ Under Review.
 **Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
 Under Review.  
 
+[P3] Active Prompt Learning in Vision Language Models  
+Jihwan Bang, **Sumyeong Ahn**, Jae-Gil Lee  
+Under Review.  
 
 [C7] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  
 Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**^, Du-Seong Chang, Euijai Ahn, S-Young Yun^   
