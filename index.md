@@ -18,6 +18,16 @@ Under Review.
 Jihwan Bang, **Sumyeong Ahn**, Jae-Gil Lee  
 Under Review.  
 
+[P4] Large Language Models In Medical Term Classification And Unexpected Misalignment Between Response And  Reasoning   
+Xiaodan  Zhang,  Sandeep  Vemulapalli,  Nabasmita  Talukdar, **Sumyeong  Ahn**,  Jiankun  Wang,  Han  Meng,  Sardar  Mehtab  Bin  Murtaza,  Aakash  Ajay  Dave,  Dmitry  Leshchiner,  Dimitri  F.  Joseph,  Martin  Witteveen-Lane,  Dave Chesla, Jiayu Zhou, and Bin Chen   
+Under Review.
+
+
+[C8] Large Language Models in Medical Term Classification and Unexpected Misalignment Between Response and Reasoning  
+Xiaodan Zhang, Sandeep Vemulapalli, Nabasmita Talukdar, **Sumyeong Ahn**, Jiankun Wang, Han Meng, Sardar Mehtab Bin Murtaza, Aakash Ajay Dave, Dmitry Leshchiner, Dimitri F Joseph, Martin Witteveen-Lane, Dave Chesla, Jiayu Zhou, Bin Chen  
+AMIA'24
+
+
 [C7] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  
 Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**^, Du-Seong Chang, Euijai Ahn, S-Young Yun^   
 EMNLP'23 (Findings)
