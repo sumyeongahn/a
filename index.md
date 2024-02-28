@@ -5,32 +5,31 @@ Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : Equal Contribution  ^ : Equal Advising
-
-[P1] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
-**Sumyeong Ahn**, Se-Young Yun  
-Under Review.  
-
-[P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
-**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
-Under Review.  
-  
-[P3] Large Language Models In Medical Term Classification And Unexpected Misalignment Between Response And  Reasoning   
-Xiaodan  Zhang,  Sandeep  Vemulapalli,  Nabasmita  Talukdar, **Sumyeong  Ahn**,  Jiankun  Wang,  Han  Meng,  Sardar  Mehtab  Bin  Murtaza,  Aakash  Ajay  Dave,  Dmitry  Leshchiner,  Dimitri  F.  Joseph,  Martin  Witteveen-Lane,  Dave Chesla, Jiayu Zhou, and Bin Chen   
-Under Review.  
   
 [P4] Prompt Learning with Noisy Labels (Modified for anonimity)  
 **Sumyeong Ahn**, Siqi Liang, Jiayu Zhou  
 Under Review.  
 
+[P3] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
+**Sumyeong Ahn**, Se-Young Yun  
+Under Review.  
+  
+[P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
+**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
+Under Review.  
+  
+[P1] Large Language Models In Medical Term Classification And Unexpected Misalignment Between Response And  Reasoning   
+Xiaodan  Zhang,  Sandeep  Vemulapalli,  Nabasmita  Talukdar, **Sumyeong  Ahn**,  Jiankun  Wang,  Han  Meng,  Sardar  Mehtab  Bin  Murtaza,  Aakash  Ajay  Dave,  Dmitry  Leshchiner,  Dimitri  F.  Joseph,  Martin  Witteveen-Lane,  Dave Chesla, Jiayu Zhou, and Bin Chen   
+Under Review.  
+  
 [C9] Active Prompt Learning in Vision Language Models  
 Jihwan Bang, **Sumyeong Ahn**, Jae-Gil Lee  
 CVPR'24 (To appear).   
-
+  
 [C8] Large Language Models in Medical Term Classification and Unexpected Misalignment Between Response and Reasoning  
 Xiaodan Zhang, Sandeep Vemulapalli, Nabasmita Talukdar, **Sumyeong Ahn**, Jiankun Wang, Han Meng, Sardar Mehtab Bin Murtaza, Aakash Ajay Dave, Dmitry Leshchiner, Dimitri F Joseph, Martin Witteveen-Lane, Dave Chesla, Jiayu Zhou, Bin Chen  
 AMIA'24
-
-
+  
 [C7] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  
 Jongwoo Ko, Seungjoon Park, Yujin Kim, **Sumyeong Ahn**^, Du-Seong Chang, Euijai Ahn, S-Young Yun^   
 EMNLP'23 (Findings)
