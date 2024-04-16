@@ -6,22 +6,24 @@ Hello, I am Sumyeong Ahn, a Postdoctoral Fellow at MSU collaborating with Prof. 
 C: Conference, W: Workshop, J: Journal, P: Preprint, M: Misc.   
 \* : Equal Contribution  ^ : Equal Advising
   
-[P4] Prompt Learning with Noisy Labels (Modified for anonimity)  
+[P3] Prompt Learning with Noisy Labels (Modified for anonimity)  
 **Sumyeong Ahn**, Siqi Liang, Jiayu Zhou  
 Under Review.  
 
-[P3] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
+[P2] ORBIS: Open Dataset Can Rescue You from Dataset Bias Problem  
 **Sumyeong Ahn**, Se-Young Yun  
-Under Review.  
-  
-[P2] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
-**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
 Under Review.  
   
 [P1] Large Language Models In Medical Term Classification And Unexpected Misalignment Between Response And  Reasoning   
 Xiaodan  Zhang,  Sandeep  Vemulapalli,  Nabasmita  Talukdar, **Sumyeong  Ahn**,  Jiankun  Wang,  Han  Meng,  Sardar  Mehtab  Bin  Murtaza,  Aakash  Ajay  Dave,  Dmitry  Leshchiner,  Dimitri  F.  Joseph,  Martin  Witteveen-Lane,  Dave Chesla, Jiayu Zhou, and Bin Chen   
 Under Review.  
   
+
+  
+[C10] Fine-tuning Pre-trained Models for Robustness Under Noisy Labels  
+**Sumyeong Ahn**, Sihyeon Kim, Jongwoo Ko, Se-Young Yun  
+IJCAI'24 (To appear).   
+
 [C9] Active Prompt Learning in Vision Language Models  
 Jihwan Bang, **Sumyeong Ahn**, Jae-Gil Lee  
 CVPR'24 (To appear).   
